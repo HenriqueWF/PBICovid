@@ -2,7 +2,7 @@
 # Dashboard Pandemia Covid-19
 
 <p align="center">
-  <img alt="Covid-19" width="80%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
+  <img alt="Covid-19" width="90%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
 </p>
 
 ## Objetivo do Estudo
