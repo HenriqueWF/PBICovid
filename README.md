@@ -6,7 +6,7 @@
 </p>
 
 ## Objetivo do Estudo
-Essa é um dashboard que complementa o [estudo da COVID-19](https://github.com/HenriqueWF/covid-19/tree/main) que fiz, em que abordei tanto os números globais quanto os específicos do Brasil. Esse dashboard, como o estudo completo, teve como foco os registros de óbitos e casos confirmados da doença
+Esse é um dashboard que complementa o [estudo da COVID-19](https://github.com/HenriqueWF/covid-19/tree/main) que fiz, em que abordei tanto os números globais quanto os específicos do Brasil. Esse dashboard, como o estudo completo, teve como foco os registros de óbitos e casos confirmados da doença
 
 Pode acessar esse [link do Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9) para acessar o relatório completo.
 
@@ -16,7 +16,6 @@ Todos os dados usados aqui foram obtidos a partir do dataset do [***Our World in
 O ***Our World in Data*** é uma plataforma que busca disponibilizar informações e análises baseadas em dados para compreender e abordar desafios globais. No contexto da pandemia da COVID-19, o Our World in Data oferece um extenso conjunto de dados que abrange aspectos como casos confirmados, óbitos, testes realizados e vacinação em várias nações.
 
 É relevante destacar que o repositório se baseia em fontes amplamente reconhecidas, incluindo a Organização Mundial da Saúde (OMS), o Centro Europeu de Prevenção e Controle das Doenças (ECDC), a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), bem como dados estatísticos da Organização das Nações Unidas (ONU) e relatórios oficiais emitidos por governos locais.
-
 
 ## Tecnologias Utilizadas
 <p align="left">  
