@@ -8,7 +8,8 @@
 ## Objetivo do Estudo
 Esse é um dashboard que complementa o [estudo da COVID-19](https://github.com/HenriqueWF/covid-19/tree/main) que fiz, em que abordei tanto os números globais quanto os específicos do Brasil. Esse dashboard, como o estudo completo, teve como foco os registros de óbitos e casos confirmados da doença
 
-Pode acessar esse [link do Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9) para acessar o relatório completo.
+Pode acessar o link abaixo para acessar o dashboard:
+ - 🔗 [Dashboard - Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
 
 ## Fonte dos Dados
 Todos os dados usados aqui foram obtidos a partir do dataset do [***Our World in Data***](https://ourworldindata.org/coronavirus), disponibilizado no [GitHub](https://github.com/owid/COVID-19-data/tree/master/public/data).
